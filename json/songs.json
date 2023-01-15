@@ -1,0 +1,33 @@
+[
+    {
+        "rating":"4.5",
+        "title":"Higher",
+        "text":"Lemaitre ft. Maty Noyes",
+        "img":"assets/images/higher.jpg",
+        "audio":"higher.mp3"
+    },
+
+    {
+        "rating":"4.5",
+        "title":"Life Goes On",
+        "text":"Oliver Tree",
+        "img":"assets/images/life_Goes_On.jpg",
+        "audio":"life_Goes_On.mp3"
+    },
+
+    {
+        "rating":"4.8",
+        "title":"Tuesday",
+        "text":"Burak Yeter ft. Danelle S.",
+        "img":"assets/images/tuesday.jpg",
+        "audio":"tuesday.mp3"
+    },
+
+    {
+        "rating":"4.5",
+        "title":"Happier",
+        "text":"Marshmello ft. Bastille",
+        "img":"assets/images/happier.jpg",
+        "audio":"happier.mp3"
+    }
+]

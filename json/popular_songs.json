@@ -1,0 +1,33 @@
+[
+    {
+        "rating":"4.5",
+        "title":"Happier",
+        "text":"Marshmello ft. Bastille - Happier",
+        "img":"assets/images/happier.jpg",
+        "audio":"happier.mp3"
+    },
+
+    {
+        "rating":"4.1",
+        "title":"Run Boy Run",
+        "text":"Woodkid - Run Boy Run",
+        "img":"assets/images/run_boy_run.jpg",
+        "audio":"run_boy_run.mp3"
+    },
+
+    {
+        "rating":"4.5",
+        "title":"Godzilla",
+        "text":"Eminem - Godzilla ft. Juice WRLD",
+        "img":"assets/images/godzilla.jpg",
+        "audio":"godzilla.mp3"
+    },
+
+    {
+        "rating":"4.2",
+        "title":"Redbone",
+        "text":"Childish Gambino - Redbone",
+        "img":"assets/images/redbone.jpg",
+        "audio":"redbone.mp3"
+    }
+]
